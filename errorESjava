@@ -1,0 +1,8 @@
+ERROR: java bundled coudn't be found 
+bash-4.4$ readlink -f $(whereis java)
+/opt/elasticsearch/bin/java:
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.265.b01-0.el8_2.x86_64/jre/bin/java --- take this
+/usr/lib/java
+/etc/java
+/usr/share/java
+/usr/share/man/man/man1/java-java-1.8.0-openjdk-1.8.0.265.b01-0.el8_2.x86_64.1.gz
